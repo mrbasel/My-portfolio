@@ -1,3 +1,3 @@
 # Example portfolio website
 
-You can view it [here](https://mrbasel.github.io/).
+You can view it [here](https://mrbasel.github.io/My-portfolio/).
